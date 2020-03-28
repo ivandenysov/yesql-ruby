@@ -1,0 +1,1 @@
+select :columns from users;
